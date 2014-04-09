@@ -1,0 +1,8 @@
+{
+  "id": "balys",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAIBGIfH0dRl2oTzdjd+H/3I5tYvgp1EUKJ7QT2dkeuZfNcfqBrTYum9kyYxfhJiZkBPNbMpbmvK3mJCQRzPBCgzsptYtGwibQsiqiByHcKAqT/4kxx6LVpEW0zfcdg27PlcrKzspDS4wyvNBdtzfJ5pToeV+WYh+iPT3dXRkslzxDQ=="
+  ],
+  "groups": [ "devops" ],
+  "shell": "\/bin\/bash"
+}
